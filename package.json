@@ -1,20 +1,22 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "felicegeracitano",
+  "version": "1.0.0",
+  "description": "A personal card for Felice Geracitano (@felicegeracitano)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/felicegeracitano/bitandbang.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Felice Geracitano <felice.geracitano@gmail.com>",
+  "homepage": "https://github.com/felicegeracitano/bitandbang#readme",
+  "bugs": {
+    "url": "https://github.com/felicegeracitano/bitandbang/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
